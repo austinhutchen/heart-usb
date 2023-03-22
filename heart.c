@@ -14,8 +14,6 @@ void loop() {
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(200);
   int size = 10;
-  DigiKeyboard.print("THANKS FOR BEING!");
-  DigiKeyboard.print(" SUCH A COOL HOT SEXY GIRLFRIEND ");
     DigiKeyboard.print("LOVE YOU!!");
     DigiKeyboard.print("\n");
     DigiKeyboard.print(" - by austin morozane hutchen ");
