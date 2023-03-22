@@ -16,7 +16,6 @@ void loop() {
   int size = 10;
     DigiKeyboard.print("LOVE YOU!!");
     DigiKeyboard.print("\n");
-    DigiKeyboard.print(" - by austin morozane hutchen ");
     DigiKeyboard.print("\n");   DigiKeyboard.print("\n");
        DigiKeyboard.print("\n");
   for (int x = 0; x < size; x++)
